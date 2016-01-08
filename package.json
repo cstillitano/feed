@@ -25,7 +25,7 @@
     ],
     
     "dependencies": {
-        "xml":      ">= 0.0.5"
+        "xml":      "https://github.com/cstillitano/node-xml"
     },
 
     "engines": {
